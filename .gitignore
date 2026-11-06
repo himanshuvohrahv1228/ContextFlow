@@ -1,0 +1,12 @@
+
+.venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+
+data/uploads/
+data/chroma/
+*.db
+
+.pytest_cache/
